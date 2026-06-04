@@ -1,5 +1,6 @@
-from recipe.ingredient import Ingredient
 from __future__ import annotations #добавила, чтобы не подчеркивалось, когда внутри класса ссылаюсь на тот же класс, ссылка на документацию в ридми
+from recipe.ingredient import Ingredient
+
 
 
 class Recipe:
@@ -46,3 +47,4 @@ class Recipe:
         resstr = "\n".join(ress)
         return f"{self.title}:\n{resstr}"
 
+   
