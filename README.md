@@ -11,3 +11,5 @@ python -m pytest test_recipes.py –v
 https://peps.python.org/pep-0585/ (list[Ingredient])
 https://peps.python.org/pep-0563/ (from __future__ import annotations)
 https://docs.python.org/3/library/sys_path_init.html 
+
+Химиченко Алёна БИ2508
